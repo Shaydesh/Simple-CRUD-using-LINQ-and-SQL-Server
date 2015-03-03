@@ -1,0 +1,5 @@
+C:\Users\jessieandshay\Desktop\ASP.NET class\LINQ_example\LINQ_example\bin\LINQ_example.dll
+C:\Users\jessieandshay\Desktop\ASP.NET class\LINQ_example\LINQ_example\bin\LINQ_example.pdb
+C:\Users\jessieandshay\Desktop\ASP.NET class\LINQ_example\LINQ_example\obj\Release\LINQ_example.dll
+C:\Users\jessieandshay\Desktop\ASP.NET class\LINQ_example\LINQ_example\obj\Release\LINQ_example.pdb
+C:\Users\jessieandshay\Desktop\ASP.NET class\LINQ_example\LINQ_example\obj\Release\LINQ_example.csprojResolveAssemblyReference.cache
